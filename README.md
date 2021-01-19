@@ -1,2 +1,2 @@
-# swift_my_train
-In this repository my train Swift code
+# Swift training code
+In this repository I store my training Swift code.
